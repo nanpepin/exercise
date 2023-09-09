@@ -11,4 +11,8 @@ Fuchsia
 Purple
 Brown
 Red
+<<<<<<< HEAD
 Black
+=======
+Pink
+>>>>>>> f03e49a1e7eea9c3fec19c064fe440144ca282e2
